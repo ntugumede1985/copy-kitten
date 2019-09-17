@@ -8,6 +8,11 @@ body{
     margin-top: 60px;
 }
 .btn{
+    border-radius: 15px;
+    border: 20px solid #008CBA;
+    padding: 20x 40px;
+    width: 400px;
+    height: 90px;
     border: 20px solid #008CBA;
     color: #ffffff;
     background: #008CBA;
@@ -18,13 +23,6 @@ body{
     margin: 10px;
     transition: 0.8s;
 }
-.btn{
-    border-radius: 15px;
-    border: 20px solid #008CBA;
-    padding: 20x 40px;
-    width: 400px;
-    height: 90px;
-  }
 .btn:hover{
 color: #ffffff;
 background: #33ccff;
